@@ -1,1 +1,1 @@
-testing aja
+testing aja ini v.0.2
